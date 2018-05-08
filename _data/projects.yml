@@ -2,22 +2,14 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Rikka-Bot
+    link: "rikka-bot"
+    tagline: "Chatbot and moderation bot currently employed by over 200 Discord servers worldwide. Integrates the Discord API, Gizoogle.net API, Google Translate API, and CleverBot.io API to process and create intelligent responses based on user need, including language translation, moderation, and miscellaneous fun commands."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Gizoogle-Bot
+    link: "gizoogle-bot"
+    tagline: "Twitter bot that processes tweets and “translates” them using the Gizoogle API. Integrates the Twitter API and Gizoogle.net API to “translate” tweets and reply with the translation to the user."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: AutoAircrack
+    link: "AutoAircrack"
+    tagline: "Bash program that automates and speeds up the use of the popular penetration program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting. Includes the integration of airodump-ng, aireplay-ng, and aircrack-ng, in a customized and graphical user-friendly environment."
