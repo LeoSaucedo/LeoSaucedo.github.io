@@ -6,18 +6,18 @@ projects:
     tagline: "<br>Chatbot and moderation bot currently employed by over 200 Discord servers worldwide.
     <br><br>
     Integrates the Discord API, Gizoogle.net API, Google Translate API, and CleverBot.io API to process and create intelligent responses based on user need, including language translation, moderation, and miscellaneous fun commands.
-    <br>"
+    <br><br>"
   - project:
     title: Gizoogle-Bot
     link: "gizoogle-bot"
     tagline: "<br>Twitter bot that processes tweets and “translates” them using the Gizoogle API. 
     <br><br>
     Integrates the Twitter API and Gizoogle.net API to “translate” tweets and reply with the translation to the user.
-    <br>"
+    <br><br>"
   - project:
     title: AutoAircrack
     link: "AutoAircrack"
     tagline: "<br>Bash program that automates and speeds up the use of the popular penetration program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.
     <br><br>
     Includes the integration of airodump-ng, aireplay-ng, and aircrack-ng, in a customized and graphical user-friendly environment.
-    <br>"
+    <br><br>"
