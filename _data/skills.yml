@@ -11,7 +11,13 @@
   name: JavaScript
   level: 85%
 - skill:
+  name: Photography & Cinematography
+  skill: 
+- skill:
   name: Adobe Illustrator & Adobe Photoshop
+  level: 75%
+- skill:
+  name: Adobe After Effects & Adobe Premiere
   level: 75%
 - skill:
   name: HTML5
