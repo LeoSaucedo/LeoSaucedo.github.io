@@ -1,20 +1,18 @@
 - education:
-  degree: High School
-  university: Blessed Trinity Catholic High School
-  time: 2014 - 2018
-  details: "Honors student in a highly competitive school that has earned the National Blue Ribbon Award, awarded to 50 of the highest-performing schools in the country.
-  <br><br>
-  Achieved a 90.66 Cumulative GPA and a 3.53 GPA from 9-11 grades.
-  <br><br>
-  Took rigorous courses, including 10 college-level courses such as AP Physics C, AP Computer Science, AP Engtlish Language, and AP Comparative Government and Politics.
-  <br><br>
-  Programming team leader, graphic design manager, and team photographer for the school's Hyperion Robotics team, a FIRST robotics team with international presence, achieving 5th place in a division in the Houston World Championship in 2016.
-  <br><br>
-  Co-leader for the school's sports broadcasting team, achieving an Elite High School status awarded to the best 50 broadcasting programs in the country.
-  <br><br>"
-- education:
   degree: BS in Computer Science
-  university: Florida State University
+  university: Florids State University, Tallahassee FL
   time: 2018 - Present
   details: "Computer Science student seeking a Bachelor of Science degree at a nationally-acclaimed university in Computer Science/STEM.
+  <br><br>"
+- education:
+  degree: High School
+  university: Blessed Trinity Catholic High School, Roswell GA
+  time: 2014 - 2018
+  details: "<i>National Blue Ribbon Award High School.</i>
+  <br><br>
+  Honors student. Achieved a 90.66 Cumulative GPA and a 3.53 GPA from 9-11th grades.
+  <br><br>
+  Took rigorous courses, including 10 college-level courses such as AP Physics, AP Computer Science, AP English Language, and AP Comparative Government and Politics.
+  <br><br>
+  Programming team leader, graphic design manager, and team photographer for the school's Robotics Team, Hyperion, a FIRST Robotics team with international presence, achieving 5th place in a division in the Houston World Championship in 2016.
   <br><br>"
