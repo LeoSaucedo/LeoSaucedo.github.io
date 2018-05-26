@@ -2,6 +2,9 @@
   name: Microsoft Office
   level: 100%
 - skill:
+  name: Git and GitHub
+  level: 100%
+- skill:
   name: Java
   level: 98%
 - skill:
