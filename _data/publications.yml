@@ -1,14 +1,26 @@
-intro: "Some of my miscellaneous interests include:"
+intro:
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title:
+    authors: "Active Mentor and volunteer for my high school's FIRST Robotics Team, Hyperion, a member of an internationally-recognized organization promoting STEM education for students around the world."
+    conference:
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title:
+    authors:
+    conference: "Mentor of my high school's Broadcast Team, a nationally-acclaimed Elite Broadcasting Team."
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title:
+    authors:
+    conference: "Avid helmsman and Assistant Captain for Amazing Grace, a 38' sailboat making international trips around the Caribbean. Certified by the American Sailing Association."
+  - paper:
+    title:
+    authors:
+    conference: "Certified diver, having gained the PADI Open Water Certification."
+  - paper:
+    title:
+    authors:
+    conference: "Notable member and volunteer for my Church, serving as a weekly Usher, Lector, and Parishioner."
+  - paper:
+    title:
+    authors:
+    conference: "HObbyist photographer, with several years of experience and pictures from several countries and continents around the world."
