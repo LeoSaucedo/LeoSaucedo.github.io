@@ -7,36 +7,46 @@ projects:
     <br><br>
     Designed, programmed, and currently hosts the project, leading a team of 4 members on the development team.
     <br><br>
-    Integrated the Discord API, Gizoogle.net API, Google Translate API, and CleverBot.io API to process and create intelligent responses based on user need, including language translation, moderation, and miscellaneous fun commands.
+    Integrated the Discord API, Gizoogle.net API, Google Translate API, and CleverBot.io
+     API to process and create intelligent responses based on user need, including
+      language translation, moderation, and miscellaneous fun commands.
     <br><br>"
   - project:
     title: Gizoogle-Bot
     link: "https://github.com/LeoSaucedo/gizoogle-bot"
-    tagline: "<br><i>Twitter bot that processes tweets and translates them using the Gizoogle API.</i>
+    tagline: "<br><i>Twitter bot that processes tweets and translates them using
+     the Gizoogle API.</i>
     <br><br>
-    Designed, built, and programmed the bot from concept to implementation, now hosting it on the international Twitter network.
+    Designed, built, and programmed the bot from concept to implementation, now
+    hosting it on the international Twitter network.
     <br><br>
-    Integrated the Twitter API and Gizoogle.net API to translate tweets and reply with the translation to the user.
+    Integrated the Twitter API and Gizoogle.net API to translate tweets and reply
+     with the translation to the user.
     <br><br>"
 
   - project:
     title: Hyperion Robot Code 2018
     link: "https://github.com/blessedtrinityrobotics/hyperion"
-    tagline: "<br><i>Robot code that includes actuating various solenoids, motors, and encoders, to carry out actions both autonomously and via human controls.</i>
+    tagline: "<br><i>Robot code that includes actuating various solenoids, motors,
+     and encoders, to carry out actions both autonomously and via human controls.</i>
     <br><br>
     Designed and implemented the working version of the robot code.
     <br><br>
     Led a team of 5 developers on the programming team, including pseudocoders and debuggers.
     <br><br>
-    Developed an advanced autonomous system that reads data from the playing field, assesses its current position, and picks up and places a milk crate into a platform that is randomly chosen at the beginning of the match.
+    Developed an advanced autonomous system that reads data from the playing field,
+     assesses its current position, and picks up and places a milk crate into a platform that is randomly chosen at the beginning of the match.
     <br><br>"
 
   - project:
     title: AutoAircrack
     link: "https://github.com/LeoSaucedo/AutoAircrack"
-    tagline: "<br><i>Bash program that automates and speeds up the use of the popular penetration-testing program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.</i>
+    tagline: "<br><i>Bash program that automates and speeds up the use of the popula
+    r penetration-testing program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.</i>
     <br><br>
-    Designed, coded, and deployed the program to test the security of several home and enterprise networks.
+    Designed, coded, and deployed the program to test the security of several home
+     and enterprise networks.
     <br><br>
-    Integrated the environments of airodump-ng, aireplay-ng, and aircrack-ng, in a customized and graphical user-friendly interface.
+    Integrated the environments of airodump-ng, aireplay-ng, and aircrack-ng, in a
+     customized and graphical user-friendly interface.
     <br><br>"
