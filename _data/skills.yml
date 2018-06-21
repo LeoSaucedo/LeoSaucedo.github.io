@@ -26,11 +26,12 @@
   name: Adobe After Effects & Adobe Premiere
   level: 70%
 - skill:
-  name: HTML & CSS
-  level: 60%
-- skill:
   name: Visual Basic .NET
-  level: 33%
+  level: 65%
 - skill:
   name: SQL & Databases
-  level: 33%
+  level: 65%
+- skill:
+  name: HTML & CSS
+  level: 60%
+
