@@ -3,7 +3,7 @@ projects:
   - project:
     title: Rikka-Bot
     link: "https://github.com/LeoSaucedo/rikka-bot/"
-    tagline: "<br><i>Chatbot and moderation bot currently employed by over 63,000 Discord users worldwide.</i>
+    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 63,000 Discord users worldwide.</i>
     <br><br>
     Designed, programmed, and currently hosts the project, leading a team of 4 members on the development team.
     <br><br>
@@ -14,7 +14,7 @@ projects:
   - project:
     title: Gizoogle-Bot
     link: "https://github.com/LeoSaucedo/gizoogle-bot"
-    tagline: "<br><i>Twitter bot that processes tweets and translates them using
+    tagline: "<br><i>Python Twitter bot that processes tweets and translates them using
      the Gizoogle API.</i>
     <br><br>
     Designed, built, and programmed the bot from concept to implementation, now
@@ -27,7 +27,7 @@ projects:
   - project:
     title: Hyperion Robot Code 2018
     link: "https://github.com/blessedtrinityrobotics/hyperion"
-    tagline: "<br><i>Robot code that includes actuating various solenoids, motors,
+    tagline: "<br><i>Robot code written in Java that includes actuating various solenoids, motors,
      and encoders, to carry out actions both autonomously and via human controls.</i>
     <br><br>
     Designed and implemented the working version of the robot code.
@@ -41,8 +41,8 @@ projects:
   - project:
     title: AutoAircrack
     link: "https://github.com/LeoSaucedo/AutoAircrack"
-    tagline: "<br><i>Bash program that automates and speeds up the use of the popula
-    r penetration-testing program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.</i>
+    tagline: "<br><i>Bash program that automates and speeds up the use of the popular
+    penetration-testing program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.</i>
     <br><br>
     Designed, coded, and deployed the program to test the security of several home
      and enterprise networks.
