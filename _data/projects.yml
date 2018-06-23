@@ -11,6 +11,21 @@ projects:
      API to process and create intelligent responses based on user need, including
       language translation, moderation, and miscellaneous fun commands.
     <br><br>"
+
+  - project:
+    title: PDF_Parser
+    link: "https://github.com/LeoSaucedo/PDF_Parser"
+    tagline: "<br><i>Visual Basic .NET program that joins images and PDFs into a
+     single PDF document, optionally with SQL Databases.</i>
+     <br><br>
+     Designed, built and programmed the program from concept to implementation,
+     a version of which is being used today in the fintech industry.
+     <br><br>
+     Implemented the PDFSharp .NET library into a Visual Basic application that
+     queries SQL databases to process and convert documents into a PDF document
+     of various shapes and sizes.
+     <br><br>"
+    
   - project:
     title: Gizoogle-Bot
     link: "https://github.com/LeoSaucedo/gizoogle-bot"
