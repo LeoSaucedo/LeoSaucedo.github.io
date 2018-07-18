@@ -25,19 +25,6 @@ projects:
      queries SQL databases to process and convert documents into a PDF document
      of various shapes and sizes.
      <br><br>"
-    
-  - project:
-    title: Gizoogle-Bot
-    link: "https://github.com/LeoSaucedo/gizoogle-bot"
-    tagline: "<br><i>Python Twitter bot that processes tweets and translates them using
-     the Gizoogle API.</i>
-    <br><br>
-    Designed, built, and programmed the bot from concept to implementation, now
-    hosting it on the international Twitter network.
-    <br><br>
-    Integrated the Twitter API and Gizoogle.net API to translate tweets and reply
-     with the translation to the user.
-    <br><br>"
 
   - project:
     title: Hyperion Robot Code 2018
