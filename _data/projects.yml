@@ -3,7 +3,7 @@ projects:
   - project:
     title: Rikka-Bot
     link: "https://github.com/LeoSaucedo/rikka-bot/"
-    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 63,000 Discord users worldwide.</i>
+    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 70,000 Discord users worldwide.</i>
     <br><br>
     Designed, programmed, and currently hosts the project, leading a team of 4 members on the development team.
     <br><br>
@@ -25,19 +25,6 @@ projects:
      queries SQL databases to process and convert documents into a PDF document
      of various shapes and sizes.
      <br><br>"
-    
-  - project:
-    title: Gizoogle-Bot
-    link: "https://github.com/LeoSaucedo/gizoogle-bot"
-    tagline: "<br><i>Python Twitter bot that processes tweets and translates them using
-     the Gizoogle API.</i>
-    <br><br>
-    Designed, built, and programmed the bot from concept to implementation, now
-    hosting it on the international Twitter network.
-    <br><br>
-    Integrated the Twitter API and Gizoogle.net API to translate tweets and reply
-     with the translation to the user.
-    <br><br>"
 
   - project:
     title: Hyperion Robot Code 2018

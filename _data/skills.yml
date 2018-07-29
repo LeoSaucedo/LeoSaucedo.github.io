@@ -15,10 +15,16 @@
   level: 98%
 - skill:
   name: WordPress
-  level: 89%
+  level: 95%
+- skill:
+  name: HTML & CSS
+  level: 90%
 - skill:
   name: JavaScript
-  level: 85%
+  level: 90%
+- skill:
+  name: Visual Basic .NET
+  level: 90%
 - skill:
   name: Adobe Illustrator & Adobe Photoshop
   level: 75%
@@ -26,12 +32,6 @@
   name: Adobe After Effects & Adobe Premiere
   level: 70%
 - skill:
-  name: Visual Basic .NET
-  level: 65%
-- skill:
   name: SQL & Databases
   level: 65%
-- skill:
-  name: HTML & CSS
-  level: 60%
 
