@@ -33,7 +33,7 @@ body {
     }
     a:hover {
         text-decoration: underline;
-        color: #EED484;
+        color: #862633;
     }
     a:focus {
         text-decoration: none;
@@ -42,7 +42,7 @@ body {
         line-height: 1.5;
     }
     .wrapper {
-        background: #EED484;
+        background: #862633;
         max-width: 1000px;
         margin: 0 auto;
         position: relative;
@@ -51,7 +51,7 @@ body {
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     }
     .sidebar-wrapper {
-        background: #EED484;
+        background: #862633;
         position: absolute;
         right: 0;
         width: 280px;
