@@ -51,7 +51,7 @@ body {
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     }
     .sidebar-wrapper {
-        background: #862633;
+        background: #EED484;
         position: absolute;
         right: 0;
         width: 280px;
@@ -60,11 +60,11 @@ body {
         color: #fff;
     }
     .sidebar-wrapper a {
-        color: #fff;
+        color: #EED484;
     }
     .sidebar-wrapper .profile-container {
         padding: 30px;
-        background: rgba(0, 0, 0, 0.2);
+        background: #EED484;
         text-align: center;
         color: #fff;
     }
@@ -139,7 +139,7 @@ body {
         margin-bottom: 0px;
     }
     .sidebar-wrapper .languages-container .lang-desc {
-        color: rgba(255, 255, 255, 0.6);
+        color: rgba(238, 212, 132, 0.6);
     }
     .sidebar-wrapper .languages-list {
         margin-bottom: 0;
