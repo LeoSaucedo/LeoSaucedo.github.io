@@ -51,13 +51,13 @@ body {
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     }
     .sidebar-wrapper {
-        background: #ceb888;
+        background: #782f40;
         position: absolute;
         right: 0;
         width: 280px;
         height: 100%;
         min-height: 800px;
-        color: #fff;
+        color: #ceb888;
     }
     .sidebar-wrapper a {
         color: #ceb888;
