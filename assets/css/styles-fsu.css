@@ -9,8 +9,8 @@
 /* ======= Base ======= */
 body {
         font-family: 'Roboto', sans-serif;
-        color: #545E6C;
-        background: #F0F1F1;
+        color: rgba(84, 94, 108, 1);
+        background: rgba(240, 241, 241 ,1);
         font-size: 14px;
         padding: 30px;
         -webkit-font-smoothing: antialiased;
@@ -25,7 +25,7 @@ body {
         font-weight: 700;
     }
     a {
-        color: #782f40;
+        color: rgb(120, 47, 64, 1);
         -webkit-transition: all 0.4s ease-in-out;
         -moz-transition: all 0.4s ease-in-out;
         -ms-transition: all 0.4s ease-in-out;
@@ -33,7 +33,7 @@ body {
     }
     a:hover {
         text-decoration: underline;
-        color: #782f40;
+        color: rgb(120, 47, 64, 1);
     }
     a:focus {
         text-decoration: none;
@@ -42,7 +42,7 @@ body {
         line-height: 1.5;
     }
     .wrapper {
-        background: #782f40;
+        background: rgb(120, 47, 64, 1);
         max-width: 1000px;
         margin: 0 auto;
         position: relative;
@@ -51,32 +51,32 @@ body {
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     }
     .sidebar-wrapper {
-        background: #782f40;
+        background: rgb(120, 47, 64, 1);
         position: absolute;
         right: 0;
         width: 280px;
         height: 100%;
         min-height: 800px;
-        color: #ceb888;
+        color: rgba(206, 184, 136, 1);
     }
     .sidebar-wrapper a {
-        color: #ceb888;
+        color: rgba(206, 184, 136, 1);
     }
     .sidebar-wrapper .profile-container {
         padding: 30px;
-        background: #ceb888;
+        background: rgba(206, 184, 136, 1);
         text-align: center;
-        color: #fff;
+        color:rgb(255, 255, 255, 1);
     }
     .sidebar-wrapper .name {
         font-size: 32px;
         font-weight: 900;
         margin-top: 0;
         margin-bottom: 10px;
-        color: #782f40;
+        color: rgb(120, 47, 64, 1);
     }
     .sidebar-wrapper .tagline {
-        color: #782f40;
+        color: rgb(120, 47, 64, 1);
         font-size: 16px;
         font-weight: 400;
         margin-top: 0;
@@ -88,7 +88,7 @@ body {
     .sidebar-wrapper .profile-img {
         max-width: 100px;
         margin-bottom: 15px;
-        border: 0px solid #fff;
+        border: 0px solidrgb(255, 255, 255, 1);
         border-radius: 100%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
@@ -160,7 +160,7 @@ body {
         margin-bottom: 0;
     }
     .main-wrapper {
-        background: #fff;
+        background:rgb(255, 255, 255, 1);
         padding: 60px;
         padding-right: 340px;
     }
@@ -168,7 +168,7 @@ body {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        color: #782f40;
+        color: rgb(120, 47, 64, 1);
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
@@ -178,7 +178,7 @@ body {
         height: 30px;
         margin-right: 8px;
         display: inline-block;
-        color: #fff;
+        color:rgb(255, 255, 255, 1);
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
@@ -187,7 +187,7 @@ body {
         -moz-background-clip: padding;
         -webkit-background-clip: padding-box;
         background-clip: padding-box;
-        background: #782f40;
+        background: rgb(120, 47, 64, 1);
         text-align: center;
         padding-top: 8px;
         font-size: 16px;
@@ -208,7 +208,7 @@ body {
     }
     .main-wrapper .job-title,
     .main-wrapper .degree {
-        color: #3F4650;
+        color: rgba(63, 70, 80, 1);
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
@@ -218,12 +218,12 @@ body {
         position: absolute;
         right: 0;
         top: 0;
-        color: #97AAC3;
+        color: rgba(151, 170, 195, 1);
     }
     .main-wrapper .company,
     .main-wrapper .university {
         margin-bottom: 10px;
-        color: #97AAC3;
+        color: rgba(151, 170, 195, 1);
     }
     .main-wrapper .project-title {
         font-size: 16px;
@@ -263,22 +263,22 @@ body {
     }
     .skillset .level-bar {
         height: 12px;
-        background: #f5f5f5;
+        background: rgba(245, 245, 245, 1);
     }
     .skillset .level-bar-inner {
         height: 12px;
-        background: #ceb888;
+        background: rgba(206, 184, 136, 1);
     }
     .footer {
         padding-top: 30px;
     }
     .footer .copyright {
         line-height: 1.6;
-        color: #545E6C;
+        color: rgba(84, 94, 108, 1);
         font-size: 13px;
     }
     .footer .fa-heart {
-        color: #fb866a;
+        color: rgba(251, 134, 106, 1);
     }
     /* Extra small devices (phones, less than 768px) */
     @media (max-width: 767px) {
