@@ -3,12 +3,12 @@ projects:
   - project:
     title: Rikka-Bot
     link: "https://github.com/LeoSaucedo/rikka-bot/"
-    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 75,000 Discord users worldwide.</i>
+    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 83,000 Discord users worldwide.</i>
     <br><br>
     Designed, programmed, and currently hosts the project, leading a team of 4 members on the development team.
     <br><br>
-    Integrated the Discord API, Gizoogle.net API, Google Translate API, and CleverBot.io
-     API to process and create intelligent responses based on user need, including
+    Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io
+    API to process and create intelligent responses based on user need, including
       language translation, moderation, and miscellaneous fun commands.
     <br><br>"
 
@@ -16,28 +16,28 @@ projects:
     title: PDF_Parser
     link: "https://github.com/LeoSaucedo/PDF_Parser"
     tagline: "<br><i>Visual Basic .NET program that joins images and PDFs into a
-     single PDF document, optionally with SQL Databases.</i>
-     <br><br>
-     Designed, built and programmed the program from concept to implementation,
-     a version of which is being used today in the fintech industry.
-     <br><br>
-     Implemented the PDFSharp .NET library into a Visual Basic application that
-     queries SQL databases to process and convert documents into a PDF document
-     of various shapes and sizes.
-     <br><br>"
+    single PDF document, optionally with SQL Databases.</i>
+    <br><br>
+    Designed, built and programmed the program from concept to implementation,
+    a version of which is being used today in the fintech industry.
+    <br><br>
+    Implemented the PDFSharp .NET library into a Visual Basic application that
+    queries SQL databases to process and convert documents into a PDF document
+    of various shapes and sizes.
+    <br><br>"
 
   - project:
     title: Hyperion Robot Code 2018
     link: "https://github.com/blessedtrinityrobotics/hyperion"
     tagline: "<br><i>Robot code written in Java that includes actuating various solenoids, motors,
-     and encoders, to carry out actions both autonomously and via human controls.</i>
+    and encoders, to carry out actions both autonomously and via human controls.</i>
     <br><br>
     Designed and implemented the working version of the robot code.
     <br><br>
     Led a team of 5 developers on the programming team, including pseudocoders and debuggers.
     <br><br>
     Developed an advanced autonomous system that reads data from the playing field,
-     assesses its current position, and picks up and places a milk crate into a platform that is randomly chosen at the beginning of the match.
+    assesses its current position, and picks up and places a milk crate into a platform that is randomly chosen at the beginning of the match.
     <br><br>"
 
   - project:
@@ -47,8 +47,8 @@ projects:
     penetration-testing program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.</i>
     <br><br>
     Designed, coded, and deployed the program to test the security of several home
-     and enterprise networks.
+    and enterprise networks.
     <br><br>
     Integrated the environments of airodump-ng, aireplay-ng, and aircrack-ng, in a
-     customized and graphical user-friendly interface.
+    customized and graphical user-friendly interface.
     <br><br>"
