@@ -1,15 +1,27 @@
 intro: "Here are some of my most notable projects."
 projects:
   - project:
+    title: Dirac_AI
+    link: "https://github.com/LeoSaucedo/Dirac"
+    tagline: "<br><i>Advanced Artificial Intelligence chatbot with a web and backend interface.</i>
+    <br><br>
+    Designed, implemented, and hosts the project, and leads a team of 4 members on the development team.
+    <br><br>
+    Created a recursive neural network self-learning system that improves based on user input.
+    <br><br>
+    Designed an adaptable, modular bot able to be implemented into many different applications across the stack.
+    <br><br>"
+
+  - project:
     title: Rikka-Bot
     link: "https://github.com/LeoSaucedo/rikka-bot/"
     tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 83,000 Discord users worldwide.</i>
     <br><br>
-    Designed, programmed, and currently hosts the project, leading a team of 4 members on the development team.
+    Designed, programmed, and currently hosts the project, and leads a team of 4 members on the development team.
     <br><br>
     Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io
     API to process and create intelligent responses based on user need, including
-      language translation, moderation, and miscellaneous fun commands.
+    language translation, moderation, and miscellaneous fun commands.
     <br><br>"
 
   - project:
