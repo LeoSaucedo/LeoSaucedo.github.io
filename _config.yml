@@ -11,8 +11,8 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-4
 #style: styles-5
 #style: styles-6
-style: styles-fsu
-#style: styles-salesforce
+#style: styles-fsu
+style: styles-salesforce
 
 
 #Profile information
@@ -20,8 +20,7 @@ name: Carlos Saucedo
 tagline: Computer Science Student
 pic: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Driven Computer Science major at a highly competitive university, with
-  extensive leadership, graphic design, and STEM expertise seeking to share my experience
-  and problem-solving skills through a summer internship'
+  extensive leadership, graphic design, and STEM expertise.'
 
 #sidebar links
 email: carlos@cgsphoto.com
@@ -33,7 +32,7 @@ twitter: 'ThatLeoKid42'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-education_in_main: True
+#education_in_main: True
 
 # Tracker
 analytics: UA-93997218-2
