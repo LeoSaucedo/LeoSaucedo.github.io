@@ -27,6 +27,11 @@
         <i class="fa fa-phone"></i
         ><a href="tel:{{ site.phone }}">{{ site.phone }}</a>
       </li>
+      {% endif %} {% if site.blog %}
+      <li class="blog">
+        <i class="fa fa-globe"></i
+        ><a href="http://{{ site.blog }}" target="_blank">{{ site.blog }}</a>
+      </li>
       {% endif %} {% if site.linkedin %}
       <li class="linkedin">
         <i class="fa fa-linkedin"></i
@@ -50,15 +55,12 @@
           site.twitter
         }}</a>
       </li>
-      {% endif %} {% if site.blog %}
-      <li class="blog">
-        <i class="fa fa-globe"></i
-        ><a href="http://{{ site.blog }}" target="_blank">{{ site.blog }}</a>
-      </li>
-      {% endif %} {% if site.photos % }
+      {% endif %} {% if site.photos %}
       <li class="photos">
         <i class="fa fa-camera"></i
-        ><a href="http://{{ site.photos }}" target="_blank">{{ site.photos }}</a>
+        ><a href="http://{{ site.photos }}" target="_blank">{{
+          site.photos
+        }}</a>
       </li>
       {% endif %}
     </ul>
