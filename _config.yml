@@ -2,7 +2,8 @@
 title: Carlos Saucedo
 url: "http://leosaucedo.github.io"
 baseurl: "/" #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+resume: True # Whether to display printable resume in sidebar.
+activities: True # Whether to show activities.
 description: "Web/Engineering Intern at CPS Products, Inc." # Site embed description
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.

@@ -13,6 +13,8 @@ layout: default
 
 {% include projects.html %}
 
-{% include publications.html %}
+{% if site.activities %}
+    {% include activities.html %}
+{% endif %}
 
 {% include skills.html %}
