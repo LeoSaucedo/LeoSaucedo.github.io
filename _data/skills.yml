@@ -1,7 +1,4 @@
 - skill:
-  name: Microsoft Office
-  level: 100%
-- skill:
   name: Git and GitHub
   level: 100%
 - skill:
@@ -20,7 +17,7 @@
   name: HTML & CSS
   level: 90%
 - skill:
-  name: JavaScript
+  name: JavaScript/TypeScript
   level: 90%
 - skill:
   name: Visual Basic .NET

@@ -150,13 +150,13 @@ body {
     .sidebar-wrapper .languages-list li:last-child {
         margin-bottom: 0;
     }
-    .sidebar-wrapper .interests-list {
+    .sidebar-wrapper .softskills-list {
         margin-bottom: 0;
     }
-    .sidebar-wrapper .interests-list li {
+    .sidebar-wrapper .softskills-list li {
         margin-bottom: 10px;
     }
-    .sidebar-wrapper .interests-list li:last-child {
+    .sidebar-wrapper .softskills-list li:last-child {
         margin-bottom: 0;
     }
     .main-wrapper {
@@ -246,10 +246,10 @@ body {
         font-style: italic;
         margin-bottom: 1px;
     }
-    .main-wrapper .publications-section .intro {
+    .main-wrapper .activities-section .intro {
         margin-bottom: 30px;
     }
-    .main-wrapper .publications-section .item {
+    .main-wrapper .activities-section .item {
         margin-bottom: 15px;
     }
     .skillset .item {
