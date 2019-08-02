@@ -2,7 +2,16 @@
   role: Web/Engineering Intern
   time: May 2019 - August 2019
   company: <a href="https://www.cpsproducts.com/" target="_blank">CPS Products, Inc</a>
-  details: "<i></i>"
+  details: "<i>HVAC/R Smart Tools Company headquartered in Miramar, FL.</i>
+  <br><br>
+  Developed an advanced, cross-platform IoT consumer app that enables BLE connectivity with smart devices, 
+  employing Apache Cordova, Ionic, and TypeScript technologies to create native experiences on Android and iOS.
+  <br><br>
+  Developed CDN and cache protocols and more efficiency measures on the CPS USA, Europe, and Australia 
+  WordPress sites to increase the PageSpeed Insight score by more than 50% on each site.
+  <br><br>
+  Conducted competitive analysis on in-house and competing products in order to provide valuable research to R&D 
+  teams on the state of the HVAC/R market in order to create new and innovative products."
 
 - experience:
   role: Creative Operations Lead
