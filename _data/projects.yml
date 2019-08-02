@@ -1,5 +1,17 @@
-intro: "Here are some of my most notable projects."
 projects:
+
+  - project:
+    title: Rikka-Bot
+    link: "https://github.com/LeoSaucedo/rikka-bot/"
+    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 135,000 Discord users worldwide.</i>
+    <br><br>
+    Designed, programmed, and currently hosts the project, and leads a team of 4 members on the development team.
+    <br><br>
+    Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io
+    API to process and create intelligent responses based on user need, including
+    language translation, moderation, and miscellaneous fun commands.
+    <br><br>"
+
   - project:
     title: Dirac_AI
     link: "https://github.com/LeoSaucedo/Dirac"
@@ -10,32 +22,6 @@ projects:
     Created a recursive neural network self-learning system that improves based on user input.
     <br><br>
     Designed an adaptable, modular bot able to be implemented into many different applications across the stack.
-    <br><br>"
-
-  - project:
-    title: Rikka-Bot
-    link: "https://github.com/LeoSaucedo/rikka-bot/"
-    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 110,000 Discord users worldwide.</i>
-    <br><br>
-    Designed, programmed, and currently hosts the project, and leads a team of 4 members on the development team.
-    <br><br>
-    Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io
-    API to process and create intelligent responses based on user need, including
-    language translation, moderation, and miscellaneous fun commands.
-    <br><br>"
-
-  - project:
-    title: PDF_Parser
-    link: "https://github.com/LeoSaucedo/PDF_Parser"
-    tagline: "<br><i>Visual Basic .NET program that joins images and PDFs into a
-    single PDF document, optionally with SQL Databases.</i>
-    <br><br>
-    Designed, built and programmed the program from concept to implementation,
-    a version of which is being used today in the fintech industry.
-    <br><br>
-    Implemented the PDFSharp .NET library into a Visual Basic application that
-    queries SQL databases to process and convert documents into a PDF document
-    of various shapes and sizes.
     <br><br>"
 
   - project:
@@ -60,7 +46,4 @@ projects:
     <br><br>
     Designed, coded, and deployed the program to test the security of several home
     and enterprise networks.
-    <br><br>
-    Integrated the environments of airodump-ng, aireplay-ng, and aircrack-ng, in a
-    customized and graphical user-friendly interface.
     <br><br>"
