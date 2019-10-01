@@ -4,7 +4,7 @@ url: "http://leosaucedo.github.io"
 baseurl: "/" #change it according to your repository name
 resume: True # Whether to display printable resume in sidebar.
 activities: False # Whether to show activities.
-description: "Software Engineer | Computer Science Student at Florida State University" # Site embed description
+description: Software Engineer at Grainhouse | Computer Science Student at Florida State University # Site embed description
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -17,10 +17,10 @@ style: styles-fsu
 
 #Profile information
 name: Carlos Saucedo
-tagline: Software Engineer | Computer Science Student at Florida State University
+tagline: Software Engineer at Grainhouse | Computer Science Student at Florida State University
 pic: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Driven Computer Science major at a highly competitive university, with
-  extensive leadership, graphic design, and STEM expertise."
+summary: "Driven Software Engineer and Computer Scientist with
+  extensive leadership, graphic design, and Software Development expertise."
 
 #sidebar links
 email: carlos@cgsphoto.com
