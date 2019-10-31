@@ -2,8 +2,17 @@
   role: Software Engineer
   time: September 2019 - Present
   company: <a href="https://hirewells.com/" target="_blank">Grainhouse</a>
-  details: "Founding Engineer for Hire Wells.
-  <br><br>"
+  details: "Smart Sourcing Company headquartered in Tallahassee, FL.
+  <br><br>
+  Develops and works as the founding engineer for Hire Wells, a smart talent, vendor, 
+  supplier, and contractor sourcing chatbot deployed to Slack and Microsoft Teams that simplifies 
+  the sourcing process for companies of all sizes.
+  <br><br>
+  Created and maintains a tech stack consisting of AWS servers, a Python backend, JavaScript and HTML 
+  frontend, as well as Intercom, Slack, and Microsoft Teams APIs to create a streamlined, cross-platform 
+  experience.
+  <br><br>
+  Employed cutting-edge Slack experiences, such as Block Kit and Modals to simplify the requisition process."
 
 - experience:
   role: Engineering/Web Intern

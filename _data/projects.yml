@@ -13,6 +13,18 @@ projects:
     <br><br>"
 
   - project:
+    title: Calbot (HackFSU 2019 First Place Winner)
+    link: "https://github.com/KiwiCrushers/calbot"
+    tagline: "<br><i>Nutrition tracker that keeps track of intake through the latest in Computer Vision and artificial intelligence.</i>
+    <br><br>
+    Designed and led a team of 3 developers in creating an advanced, cross-platform chatbot assistant that simplifies the nutrition tracking 
+    experience by offering a seamless experience using the most popular conversational clients.
+    <br><br>
+    Employed the Google Cloud Computer Vision API to identify food in an image and used the WolframAlpha knowledgebase API to query for 
+    nutrition information and logs and tracks them in an SQL database.
+    <br><br>"
+
+  - project:
     title: Dirac_AI
     link: "https://github.com/LeoSaucedo/Dirac"
     tagline: "<br><i>Advanced Artificial Intelligence chatbot with a web and backend interface.</i>
