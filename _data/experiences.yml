@@ -3,49 +3,62 @@
   time: September 2019 - Present
   company: <a href="https://hirewells.com/" target="_blank">Grainhouse</a>
   details: "Smart Sourcing Company headquartered in Tallahassee, FL.
-  <br><br>
-  Develops and works as the founding engineer for Hire Wells, a smart talent, vendor, 
-  supplier, and contractor sourcing chatbot deployed to Slack and Microsoft Teams that simplifies 
-  the sourcing process for companies of all sizes.
-  <br><br>
-  Created and maintains a tech stack consisting of AWS servers, a Python backend, JavaScript and HTML 
-  frontend, as well as Intercom, Slack, and Microsoft Teams APIs to create a streamlined, cross-platform 
-  experience.
-  <br><br>
-  Employed cutting-edge Slack experiences, such as Block Kit and Modals to simplify the requisition process."
+  <ul>
+    <li>
+      Develops and works as the founding engineer for Hire Wells, a smart talent, vendor, 
+      supplier, and contractor sourcing chatbot deployed to Slack and Microsoft Teams that simplifies 
+      the sourcing process for companies of all sizes.
+    </li>
+    <li>
+      Created and maintains a tech stack consisting of AWS servers, a Python backend, JavaScript and HTML 
+      frontend, as well as Intercom, Slack, and Microsoft Teams APIs to create a streamlined, cross-platform 
+      experience.
+    </li>
+    <li>
+      Employed cutting-edge Slack experiences, such as Block Kit and Modals to simplify the requisition process.
+    </li>
+  </ul>"
 
 - experience:
   role: Engineering/Web Intern
   time: May 2019 - August 2019
   company: <a href="https://www.cpsproducts.com/" target="_blank">CPS Products, Inc</a>
   details: "<i>HVAC/R Smart Tools Company headquartered in Miramar, FL.</i>
-  <br><br>
-  Developed an advanced, cross-platform IoT consumer app that enables BLE connectivity with smart devices, 
-  employing Apache Cordova, Ionic, and TypeScript technologies to create native experiences on Android and iOS.
-  <br><br>
-  Developed CDN and cache protocols and more efficiency measures on the CPS USA, Europe, and Australia 
-  WordPress sites to increase the PageSpeed Insight score by more than 50% on each site.
-  <br><br>
-  Conducted competitive analysis on in-house and competing products in order to provide valuable research to R&D 
-  teams on the state of the HVAC/R market in order to create new and innovative products.
-  <br><br>"
+  <ul>
+    <li>
+      Developed an advanced, cross-platform IoT consumer app that enables BLE connectivity with smart devices, 
+      employing Apache Cordova, Ionic, and TypeScript technologies to create native experiences on Android and iOS.
+    </li>
+    <li>
+      Developed CDN and cache protocols and more efficiency measures on the CPS USA, Europe, and Australia 
+      WordPress sites to increase the PageSpeed Insight score by more than 50% on each site.
+    </li>
+    <li>
+      Conducted competitive analysis on in-house and competing products in order to provide valuable research to R&D 
+      teams on the state of the HVAC/R market in order to create new and innovative products.
+    </li>
+  </ul>"
 
 - experience:
   role: Creative Operations Lead
   time: August 2018 - February 2019
   company: <a href="https://softwareengineeringdaily.com/" target="_blank">Software Engineering Daily</a>
   details: "<i>Software Engineering Podcast, community, and media hub with over 60,000 worldwide listeners.</i>
-  <br><br>
-  Handled everyday operations for Software Engineering Daily and Fintech Daily podcasts, including 
-  social media management, WordPress management, graphic design, quality control, community engagement, 
-  and problem solving.
-  <br><br>
-  Assisted with onboarding and production process of the Fintech Daily podcast, including 
-  interfacing with guests hosts, and managing production cycles.
-  <br><br>
-  Designed, managed, and publicized media assets such as animated GIFs, 
-  Videos, and visual quote highlights.
-  <br><br>"
+  <ul>
+    <li>
+      Handled everyday operations for Software Engineering Daily and Fintech Daily podcasts, including 
+      social media management, WordPress management, graphic design, quality control, community engagement, 
+      and problem solving.
+    </li>
+    <li>
+      Assisted with onboarding and production process of the Fintech Daily podcast, including 
+      interfacing with guests hosts, and managing production cycles.
+    </li>
+    <li>
+      Designed, managed, and publicized media assets such as animated GIFs, 
+      Videos, and visual quote highlights.
+    </li>
+  </ul>"
 
 
 - experience:
@@ -53,25 +66,31 @@
   time: June 2018 - August 2018
   company: <a href="http://www.zell.mx/" target="_blank">Corporativo Zell, Guadalajara, Jalisco, Mexico</a>
   details: "<i>Fintech and Financial Service Provider headquartered in Guadalajara, Mexico.</i>
-  <br><br>
-  Assisted in the planning, development, and implementation of various fintech
-  services and products.
-  <br><br>
-  Developed an advanced, cross-platform cybersecurity app that enables Zell
-  customers to use two-factor authentication to log into sensitive web portals,
-  employing server-side ASP.NET and client-side JavaScript, HTML, and CSS, while interfacing with SQL database
-  servers.
-  <br><br>"
+  <ul>
+    <li>
+      Assisted in the planning, development, and implementation of various fintech
+      services and products.
+    </li>
+    <li>
+      Developed an advanced, cross-platform cybersecurity app that enables Zell
+      customers to use two-factor authentication to log into sensitive web portals,
+      employing server-side ASP.NET and client-side JavaScript, HTML, and CSS, while interfacing with SQL database
+      servers.
+    </li>
+  </ul>"
 
 - experience:
   role: Electronics Assembly Intern
   time: June 2015
   company: <a href="https://resser.com/en/" target="_blank">Resser GPS, Guadalajara, Jalisco, Mexico</a>
   details: "<i>Security Systems Manufacturer headquartered in Guadalajara, Mexico.</i>
-  <br> <br>
-  Assisted in the assembly and manufacturing process of newly-developed electronic
-  GPS Security Systems.
-  <br><br>
-  Assembled, soldered, and performed quality control of dozens of custom-printed
-  PCB boards.
-  <br><br>"
+  <ul>
+    <li>
+      Assisted in the assembly and manufacturing process of newly-developed electronic
+      GPS Security Systems.
+    </li>
+      <li>
+      Assembled, soldered, and performed quality control of dozens of custom-printed
+      PCB boards.
+    </li>
+  </ul>"

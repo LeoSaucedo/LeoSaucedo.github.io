@@ -13,46 +13,36 @@ projects:
     title: Calbot (HackFSU 2019 First Place Winner)
     link: "https://github.com/KiwiCrushers/calbot"
     tagline: "<br><i>Nutrition tracker that keeps track of intake through the latest in Computer Vision and artificial intelligence.</i>
-    <br><br>
-    Designed and led a team of 3 developers in creating an advanced, cross-platform chatbot assistant that simplifies the nutrition tracking 
-    experience by offering a seamless experience using the most popular conversational clients.
-    <br><br>
-    Employed the Google Cloud Computer Vision API to identify food in an image and used the WolframAlpha knowledgebase API to query for 
-    nutrition information and logs and tracks them in an SQL database.
-    <br><br>"
+    <ul>
+      <li>Designed and led a team of 3 developers in creating an advanced, cross-platform chatbot assistant that simplifies the nutrition tracking experience by offering a seamless experience using the most popular conversational clients.</li>
+      <li>Employed the Google Cloud Computer Vision API to identify food in an image and used the WolframAlpha knowledgebase API to query for nnutrition information and logs and tracks them in an SQL database.</li>
+    </ul>
+    "
 
   - project:
     title: Dirac_AI
     link: "https://github.com/LeoSaucedo/Dirac"
     tagline: "<br><i>Advanced Artificial Intelligence chatbot with a web and backend interface.</i>
-    <br><br>
-    Designed, implemented, and hosts the project, and leads a team of 4 members on the development team.
-    <br><br>
-    Created a recursive neural network self-learning system that improves based on user input.
-    <br><br>
-    Designed an adaptable, modular bot able to be implemented into many different applications across the stack.
-    <br><br>"
+    <ul>
+      <li>Designed, implemented, and hosts the project, and leads a team of 4 members on the development team.</li>
+      <li>Created a recursive neural network self-learning system that improves based on user input.</li>
+      <li>Designed an adaptable, modular bot able to be implemented into many different applications across the stack.</li>
+    </ul>
+    "
 
   - project:
     title: Hyperion Robot Code 2018
     link: "https://github.com/blessedtrinityrobotics/hyperion"
     tagline: "<br><i>Robot code written in Java that includes actuating various solenoids, motors,
     and encoders, to carry out actions both autonomously and via human controls.</i>
-    <br><br>
-    Designed and implemented the working version of the robot code.
-    <br><br>
-    Led a team of 5 developers on the programming team, including pseudocoders and debuggers.
-    <br><br>
-    Developed an advanced autonomous system that reads data from the playing field,
-    assesses its current position, and picks up and places a milk crate into a platform that is randomly chosen at the beginning of the match.
-    <br><br>"
+    <ul>
+      <li>Designed and implemented the working version of the robot code.</li>
+      <li>Led a team of 5 developers on the programming team, including pseudocoders and debuggers.</li>
+      <li>Developed an advanced autonomous system that reads data from the playing field, assesses its current position, and picks up and places a milk crate into a platform that is randomly chosen at the beginning of the match.</li>
+    </ul>"
 
   - project:
     title: AutoAircrack
     link: "https://github.com/LeoSaucedo/AutoAircrack"
-    tagline: "<br><i>Bash program that automates and speeds up the use of the popular
-    penetration-testing program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.</i>
-    <br><br>
-    Designed, coded, and deployed the program to test the security of several home
-    and enterprise networks.
-    <br><br>"
+    tagline: "<br><i>Bash program that automates and speeds up the use of the popular penetration-testing program suite, aircrack-ng, to test and challenge the security of wireless networks, in a personal and enterprise setting.</i>
+    <ul><li>Designed, coded, and deployed the program to test the security of several home and enterprise networks.</li></ul>"
