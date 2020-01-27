@@ -4,13 +4,10 @@ projects:
     title: Rikka-Bot
     link: "https://github.com/LeoSaucedo/rikka-bot/"
     tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 135,000 Discord users worldwide.</i>
-    <br><br>
-    Designed, programmed, and currently hosts the project, and leads a team of 4 members on the development team.
-    <br><br>
-    Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io
-    API to process and create intelligent responses based on user need, including
-    language translation, moderation, and miscellaneous fun commands.
-    <br><br>"
+    <ul>
+      <li>Designed, programmed, and currently hosts the project, and leads a team of 4 members on the development team.</li>
+      <li>Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io API to process and create intelligent responses based on user need, including language translation, moderation, and miscellaneous fun commands.</li>
+    </ul>"
 
   - project:
     title: Calbot (HackFSU 2019 First Place Winner)
