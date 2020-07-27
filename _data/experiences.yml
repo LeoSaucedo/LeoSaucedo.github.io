@@ -1,9 +1,4 @@
 - experience:
-  role: Software Engineer Intern
-  time: May 2020 - August 2020
-  company: <a href="https://www.lowes.com/" target="_blank">Lowe's Companies, Inc.</a>
-
-- experience:
   role: Software Engineer
   time: September 2019 - Present
   company: <a href="https://hirewells.com/" target="_blank">Grainhouse</a>
@@ -20,6 +15,11 @@
       experience.
     </li>
   </ul>"
+
+- experience:
+  role: Software Engineer Intern
+  time: May 2020 - August 2020
+  company: <a href="https://www.lowes.com/" target="_blank">Lowe's Companies, Inc.</a>
 
 - experience:
   role: Engineering/Web Intern
