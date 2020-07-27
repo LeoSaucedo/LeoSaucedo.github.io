@@ -20,7 +20,19 @@
   role: Software Engineer Intern
   time: May 2020 - August 2020
   company: <a href="https://www.lowes.com/" target="_blank">Lowe's Companies, Inc.</a>
-
+  details: "
+  <ul>
+    <li>
+    Developed and maintained multiple microservices now in production using the Spring Boot Framework for various Lowe’s ProServices. 
+    Deployed microservices to the Google Cloud Platform and created data retrieval systems for Postgres and Couchbase databases.
+    </li>
+    <li>
+    Created metric logging systems and employed them to create performance test and metrics analysis to ensure efficiently working code. 
+    Employed Apache JMeter and Prometheus to create metrics and perform stress tests. 
+    Developed JUnit tests and used them to ensure all code was free of errors.
+    </li>
+  </ul>
+  "
 - experience:
   role: Engineering/Web Intern
   time: May 2019 - August 2019
