@@ -1,37 +1,21 @@
 - skill:
-  name: Git and GitHub
-  level: 100%
-- skill:
   name: Java
   level: 98%
 - skill:
   name: Python
   level: 98%
 - skill:
-  name: Bash
+  name: Spring Boot Architecture
   level: 98%
 - skill:
-  name: WordPress
+  name: GCP
   level: 95%
 - skill:
-  name: HTML & CSS
+  name: REST APIs
   level: 90%
 - skill:
-  name: JavaScript/TypeScript
+  name: Enterprise SQL Databases
   level: 90%
 - skill:
-  name: Visual Basic .NET
+  name: Kubernetes
   level: 90%
-- skill:
-  name: C++
-  level: 90%
-- skill:
-  name: Adobe Illustrator & Adobe Photoshop
-  level: 75%
-- skill:
-  name: Adobe After Effects & Adobe Premiere
-  level: 70%
-- skill:
-  name: SQL & Databases
-  level: 65%
-
