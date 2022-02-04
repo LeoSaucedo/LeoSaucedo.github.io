@@ -1,16 +1,35 @@
 - experience:
+  role: Associate Software Engineer
+  time: January 2022 - Present
+  company: <a href="https://www.lowes.com/" target="_blank">Lowe's</a>
+  details: "<i>Fortune 40 home improvement retailer headquartered in Charlotte, NC.</i>
+  <ul>
+    <li>
+      Develops, deploys, and engineers several Spring Boot Microservices for the
+      <a href="https://corporate.lowes.com/newsroom/press-releases/lowes-game-changing-mvps-pro-rewards-program-makes-every-pro-mvp-02-01-22">
+      Customer Loyalty Team</a>
+      , which contributes to Pro Customer retention by designing loyalty services that offer spend-based cash back and other perks.
+    </li>
+    <li>
+      Employed cutting-edge technologies such as Spring Boot, Kubernetes, GCP, Cucumber, JUnit and more to ensure a production-ready,
+      secure, and scalable Loyalty Platform.
+    </li>
+  </ul>
+  "
+
+- experience:
   role: Software Engineer
-  time: September 2019 - Present
+  time: September 2019 - January 2022
   company: <a href="https://hirewells.com/" target="_blank">Grainhouse</a>
   details: "<i>Smart Sourcing Company headquartered in Tallahassee, FL.</i>
   <ul>
     <li>
-      Develops and works as the founding engineer for Hire Wells, a smart talent, vendor, 
+      Developed and works as the founding engineer for Hire Wells, a smart talent, vendor, 
       supplier, and contractor sourcing chatbot deployed to Slack and Microsoft Teams that simplifies 
       the sourcing process for companies of all sizes.
     </li>
     <li>
-      Created and maintains a tech stack consisting of AWS servers, a Python backend, JavaScript and HTML 
+      Created and maintained a tech stack consisting of AWS servers, a Python backend, JavaScript and HTML 
       frontend, as well as Intercom, Slack, and Microsoft Teams APIs to create a streamlined, cross-platform 
       experience.
     </li>
@@ -18,18 +37,18 @@
 
 - experience:
   role: Software Engineer Intern
-  time: May 2020 - August 2020
+  time: May 2020 - August 2020, May 2021 - August 2021
   company: <a href="https://www.lowes.com/" target="_blank">Lowe's Companies, Inc.</a>
-  details: "
+  details: "<i>Fortune 40 home improvement retailer headquartered in Charlotte, NC.</i>
   <ul>
     <li>
-    Developed and maintained multiple microservices now in production using the Spring Boot Framework for various Lowe’s ProServices. 
-    Deployed microservices to the Google Cloud Platform and created data retrieval systems for Postgres and Couchbase databases.
+      Developed and maintained multiple microservices now in production using the Spring Boot Framework for various Lowe’s ProServices. 
+      Deployed microservices to the Google Cloud Platform and created data retrieval systems for Postgres and Couchbase databases.
     </li>
     <li>
-    Created metric logging systems and employed them to create performance test and metrics analysis to ensure efficiently working code. 
-    Employed Apache JMeter and Prometheus to create metrics and perform stress tests. 
-    Developed JUnit tests and used them to ensure all code was free of errors.
+      Created metric logging systems and employed them to create performance test and metrics analysis to ensure efficiently working code. 
+      Employed Apache JMeter and Prometheus to create metrics and perform stress tests. 
+      Developed JUnit tests and used them to ensure all code was free of errors.
     </li>
   </ul>
   "
