@@ -16,10 +16,9 @@ style: styles-fsu
 
 #Profile information
 name: Carlos Saucedo
-tagline: Computer Science Student at Florida State University
+tagline: "Associate Software Engineer @ Lowe's"
 pic: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Driven Software Engineer and Computer Scientist with
-  extensive leadership, graphic design, and Software Development expertise."
+summary: "Driven Software Engineer with extensive experience working in AGILE teams."
 
 #sidebar links
 email: carlos@cgsphoto.com
