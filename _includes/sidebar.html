@@ -35,32 +35,30 @@
       {% endif %} {% if site.linkedin %}
       <li class="linkedin">
         <i class="fa fa-linkedin"></i
-        ><a
-          href="https://linkedin.com/in/{{ site.linkedin }}"
-          target="_blank"
+        ><a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank"
           >{{ site.linkedin }}</a
         >
       </li>
       {% endif %} {% if site.github %}
       <li class="github">
         <i class="fa fa-github"></i
-        ><a href="http://github.com/{{ site.github }}" target="_blank">{{
-          site.github
-        }}</a>
+        ><a href="http://github.com/{{ site.github }}" target="_blank"
+          >{{ site.github }}</a
+        >
       </li>
       {% endif %} {% if site.twitter %}
       <li class="twitter">
         <i class="fa fa-twitter"></i
-        ><a href="https://twitter.com/{{ site.twitter }}" target="_blank">{{
-          site.twitter
-        }}</a>
+        ><a href="https://twitter.com/{{ site.twitter }}" target="_blank"
+          >{{ site.twitter }}</a
+        >
       </li>
       {% endif %} {% if site.photos %}
       <li class="photos">
         <i class="fa fa-camera"></i
-        ><a href="http://{{ site.photos }}" target="_blank">{{
-          site.photos
-        }}</a>
+        ><a href="http://{{ site.photos }}" target="_blank"
+          >{{ site.photos }}</a
+        >
       </li>
       {% endif %}
     </ul>
@@ -69,6 +67,6 @@
 
   {% if site.education_in_main == null or site.education_in_main == false %} {%
   include education.html %} {% endif %} {% include language.html %} {% include
-  softskills.html %}
+  softskills.html %} {% if site.resume %} {% include resume.html %} {% endif %}
 </div>
 <!--//sidebar-wrapper-->

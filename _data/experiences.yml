@@ -5,14 +5,17 @@
   details: "<i>Fortune 40 home improvement retailer headquartered in Charlotte, NC.</i>
   <ul>
     <li>
-      Develops, deploys, and engineers several Spring Boot Microservices for the
+      Responsible for designing, maintaining, and implementing Spring Boot microservices and REST APIs for the 
       <a href='https://corporate.lowes.com/newsroom/press-releases/lowes-game-changing-mvps-pro-rewards-program-makes-every-pro-mvp-02-01-22'>
       Customer Loyalty Team</a>
-      , which contributes to Pro Customer retention by designing loyalty services that offer spend-based cash back and other perks.
+      , interfacing with Apache Kafka, PostgreSQL databases, as well as other internal and external APIs.
     </li>
     <li>
-      Employed cutting-edge technologies such as Spring Boot, Kubernetes, GCP, Cucumber, JUnit and more to ensure a production-ready,
-      secure, and scalable Loyalty Platform.
+      Develops robust and performant tests, using JUnit and Cucumber, as well as Kibana and Grafana for logging and analytics.
+    </li>
+    <li>
+      Processes 34 million transactions per year, with over $100M in rewards awarded to Pro customers. Handles 2.7 million individual organizations 
+      since Pro Loyalty launch in January 2022.
     </li>
   </ul>
   "
@@ -24,7 +27,7 @@
   details: "<i>Smart Sourcing Company headquartered in Tallahassee, FL.</i>
   <ul>
     <li>
-      Developed and works as the founding engineer for Hire Wells, a smart talent, vendor, 
+      Developed and worked as the founding engineer for Hire Wells, a smart talent, vendor, 
       supplier, and contractor sourcing chatbot deployed to Slack and Microsoft Teams that simplifies 
       the sourcing process for companies of all sizes.
     </li>
@@ -42,8 +45,9 @@
   details: "<i>Fortune 40 home improvement retailer headquartered in Charlotte, NC.</i>
   <ul>
     <li>
-      Developed and maintained multiple microservices now in production using the Spring Boot Framework for various Lowe’s ProServices. 
-      Deployed microservices to the Google Cloud Platform and created data retrieval systems for Postgres and Couchbase databases.
+      Developed and maintained Spring Boot microservices and REST APIs for the Enterprise Customer team.
+      Utilized CI/CD tools with Google Cloud Platform, Spinnaker, and Kubernetes.
+      Created data retrieval systems for PostgreSQL and Couchbase Databases.
     </li>
     <li>
       Created metric logging systems and employed them to create performance test and metrics analysis to ensure efficiently working code. 
@@ -60,7 +64,8 @@
   <ul>
     <li>
       Developed an advanced, cross-platform IoT consumer app that enables BLE connectivity with smart devices, 
-      employing Apache Cordova, Ionic, and TypeScript technologies to create native experiences on Android and iOS.
+      employing Apache Cordova, Ionic, AngularJS and TypeScript technologies to create native experiences on 
+      Android and iOS.
     </li>
     <li>
       Developed CDN and cache protocols and more efficiency measures on the CPS USA, Europe, and Australia 
