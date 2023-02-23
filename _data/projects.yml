@@ -2,12 +2,12 @@ projects:
   - project:
     title: Octobot
     link: "https://github.com/LeoSaucedo/octobot"
-    tagline: <br><i>Open-source group expense tracking web app.</i>
+    tagline: "<br><i>Open-source group expense tracking web app.</i>
     <ul>
       <li>Co-Creator and responsible for leading a team of 4 developers. </li>
       <li>Using the latest ReactJS and Ionic Framework on the frontend, provides a responsive and intuitive UI to track expenses per person for large groups, allowing for multiple different expense split options.</li>
       <li>Supports the frontend with a Python/Flask backend, using SQLite to store and calculate transactions and owed amounts for each group.</li>
-    </ul>
+    </ul>"
 
   - project:
     title: Rikka-Bot
