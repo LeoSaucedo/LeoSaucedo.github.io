@@ -1,21 +1,30 @@
 - skill:
-  name: Java
+  name: Java / Spring Boot
   level: 98%
 - skill:
-  name: Python
-  level: 98%
-- skill:
-  name: Spring Boot Architecture
-  level: 98%
-- skill:
-  name: GCP
+  name: Python / Flask
   level: 95%
 - skill:
-  name: REST APIs
+  name: JavaScript / TypeScript
   level: 90%
 - skill:
-  name: Enterprise SQL Databases
+  name: MCP / AI Agent Tooling
   level: 90%
 - skill:
-  name: Kubernetes
+  name: SDD (Spec-Driven Development)
+  level: 90%
+- skill:
+  name: REST APIs / Apache Kafka
+  level: 95%
+- skill:
+  name: GCP / Kubernetes / Docker
+  level: 95%
+- skill:
+  name: PostgreSQL / SQL / Couchbase
+  level: 90%
+- skill:
+  name: CI/CD (GitHub Actions, Jenkins, Spinnaker)
+  level: 90%
+- skill:
+  name: Testing (JUnit, Cucumber, JMeter)
   level: 90%

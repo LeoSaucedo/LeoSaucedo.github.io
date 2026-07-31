@@ -1,40 +1,10 @@
 projects:
   - project:
-    title: Octobot
+    title: Octobot — Open-Source Group Expense Tracker
     link: "https://github.com/LeoSaucedo/octobot"
-    tagline: "<br><i>Open-source group expense tracking web app.</i>
-    <ul>
-      <li>Co-Creator and responsible for leading a team of 4 developers. </li>
-      <li>Using the latest ReactJS and Ionic Framework on the frontend, provides a responsive and intuitive UI to track expenses per person for large groups, allowing for multiple different expense split options.</li>
-      <li>Supports the frontend with a Python/Flask backend, using SQLite to store and calculate transactions and owed amounts for each group.</li>
-    </ul>"
+    tagline: "<br><i>Co-creator & tech lead (4 developers) | React/Ionic + Python/Flask + SQLite | CI/CD via GitHub Actions to Firebase</i>"
 
   - project:
-    title: Rikka-Bot
-    link: "https://github.com/LeoSaucedo/rikka-bot/"
-    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 135,000 Discord users worldwide.</i>
-    <ul>
-      <li>Designed, programmed, and currently hosts the project, and leads a team of 4 members on the development team.</li>
-      <li>Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io API to process and create intelligent responses based on user need, including language translation, moderation, and miscellaneous fun commands.</li>
-    </ul>"
-
-  - project:
-    title: Calbot (HackFSU 2019 First Place Winner)
-    link: "https://github.com/KiwiCrushers/calbot"
-    tagline: "<br><i>Nutrition tracker that keeps track of intake through the latest in Computer Vision and artificial intelligence.</i>
-    <ul>
-      <li>Designed and led a team of 3 developers in creating an advanced, cross-platform chatbot assistant that simplifies the nutrition tracking experience by offering a seamless experience using the most popular conversational clients.</li>
-      <li>Employed the Google Cloud Computer Vision API to identify food in an image and used the WolframAlpha knowledgebase API to query for nnutrition information and logs and tracks them in an SQL database.</li>
-    </ul>
-    "
-
-  - project:
-    title: Dirac_AI
-    link: "https://github.com/LeoSaucedo/Dirac"
-    tagline: "<br><i>Advanced Artificial Intelligence chatbot with a web and backend interface.</i>
-    <ul>
-      <li>Designed, implemented, and hosts the project, and leads a team of 4 members on the development team.</li>
-      <li>Created a recursive neural network self-learning system that improves based on user input.</li>
-      <li>Designed an adaptable, modular bot able to be implemented into many different applications across the stack.</li>
-    </ul>
-    "
+    title: OpenClaw Agent Ecosystem — AI Automation
+    link: "https://github.com/LeoSaucedo"
+    tagline: "<br><i>Designed and deployed 10+ autonomous AI agent skills — trading automation, email triage, calendar orchestration, e-commerce workflows — using SDD, MCP tooling, and an open-source agent orchestration framework</i>"
