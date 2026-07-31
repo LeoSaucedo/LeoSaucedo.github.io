@@ -1,45 +1,33 @@
 # Site Settings
 title: Carlos Saucedo
 url: "http://leosaucedo.github.io"
-baseurl: "/" #change it according to your repository name
-resume: True # Whether to display printable resume in sidebar.
-activities: False # Whether to show activities.
+baseurl: "/"
+resume: True
+activities: False
 
-# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
-#style: styles-3
-#style: styles-4
-#style: styles-5
-#style: styles-6
-#style: styles-fsu
-#style: styles-salesforce
 style: styles-lowes
 
-#Profile information
+# Profile Information
 name: Carlos Saucedo
-tagline: "Associate Software Engineer @ Lowe's"
-pic: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Driven Software Engineer with extensive experience working in AGILE teams."
+tagline: "Software Engineer II @ Lowe's"
+pic: avatar.png
+summary: "Software Engineer with 5+ years building high-scale loyalty platforms, AI agent tooling, and microservices. Processes 34M+ transactions/year with $100M+ in rewards value across 35M+ loyalty members."
 
-#sidebar links
-email: carlos@cgsphoto.com
+# Sidebar Links
+email: carlos.gabriel.saucedo@gmail.com
 phone: (561) 320-3150
-blog: blog.cgsphoto.com #do not add http://
 linkedin: CarlosGSaucedo
 github: LeoSaucedo
-twitter: "ThatLeoKid42"
-photos: photos.cgsphoto.com
-#Update all the sections by editing the files inside _data folder.
 
-# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+# Display education in main content
 education_in_main: True
 
-# Tracker
+# Analytics
 analytics: UA-93997218-2
 
 # Build settings
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html:
   clippings: all
   ignore:
     envs: development

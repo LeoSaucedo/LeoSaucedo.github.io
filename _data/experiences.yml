@@ -1,21 +1,26 @@
 - experience:
-  role: Associate Software Engineer
-  time: January 2022 - Present
-  company: <a href="https://www.lowes.com/" target="_blank">Lowe's</a>
-  details: "<i>Fortune 40 home improvement retailer headquartered in Charlotte, NC.</i>
+  role: Software Engineer II
+  time: May 2021 - Present
+  company: <a href="https://www.lowes.com/" target="_blank">Lowe's Companies, Inc.</a> — Charlotte, NC
+  details: "
   <ul>
     <li>
-      Responsible for designing, maintaining, and implementing Spring Boot microservices and REST APIs for the 
-      <a href='https://corporate.lowes.com/newsroom/press-releases/lowes-game-changing-mvps-pro-rewards-program-makes-every-pro-mvp-02-01-22'>
-      Customer Loyalty Team</a>
-      , interfacing with Apache Kafka, PostgreSQL databases, as well as other internal and external APIs.
+      Architected Spring Boot microservices and REST APIs powering MyLowe's Rewards (2024) and MyLowe's Pro Rewards — MLPR (Feb 2025), processing 34M+ transactions/year and awarding $100M+ in Pro rewards across 35M+ loyalty members.
     </li>
     <li>
-      Develops robust and performant tests, using JUnit and Cucumber, as well as Kibana and Grafana for logging and analytics.
+      Built HomeCare+ (HC+) backend from the ground up — a $99/year associate-powered home maintenance subscription — delivered through nationwide launch (Mar 2026).
     </li>
     <li>
-      Processes 34 million transactions per year, with over $100M in rewards awarded to Pro customers. Handles 2.7 million individual organizations 
-      since Pro Loyalty launch in January 2022.
+      Engineered the MLPR American Express card integration (Apr 2026), including multi-tier points logic (Gold/Platinum/Titanium), redemption flows, and Synchrony issuer migration serving 70M+ onboarded accounts.
+    </li>
+    <li>
+      Integrated loyalty partnership campaigns — McDonald's Monopoly (Fall 2025), Circle K rewards, and the \"Epically More Messi\" World Cup campaign (May 2026) — driving member acquisition, engagement, and cross-brand reward fulfillment.
+    </li>
+    <li>
+      Pioneered SDD (Spec-Driven Development) using Spec Kit to deliver MCP-based AI agent tooling, wrapping internal platform services as LLM-accessible tools; built SRE triage automation resolving 95% of tickets autonomously and eliminating a ~250-ticket backlog in one week.
+    </li>
+    <li>
+      Owned CI/CD (GitHub Actions, Kubernetes, Jenkins, Spinnaker) on GCP ensuring zero-downtime deploys; authored Cucumber/JUnit test suites with JMeter load profiles for high-throughput Kafka-backed services.
     </li>
   </ul>
   "
@@ -23,70 +28,11 @@
 - experience:
   role: Software Engineer
   time: September 2019 - January 2022
-  company: <a href="https://hirewells.com/" target="_blank">Grainhouse</a>
-  details: "<i>Smart Sourcing Company headquartered in Tallahassee, FL.</i>
+  company: <a href="https://hirewells.com/" target="_blank">Grainhouse LLC</a> — Tallahassee, FL
+  details: "
   <ul>
     <li>
-      Developed and worked as the founding engineer for Hire Wells, a smart talent, vendor, 
-      supplier, and contractor sourcing chatbot deployed to Slack and Microsoft Teams that simplifies 
-      the sourcing process for companies of all sizes.
-    </li>
-    <li>
-      Created and maintained a tech stack consisting of AWS servers, a Python backend, JavaScript and HTML 
-      frontend, as well as Intercom, Slack, and Microsoft Teams APIs to create a streamlined, cross-platform 
-      experience.
-    </li>
-  </ul>"
-
-- experience:
-  role: Software Engineer Intern
-  time: May 2020 - August 2020, May 2021 - August 2021
-  company: <a href="https://www.lowes.com/" target="_blank">Lowe's Companies, Inc.</a>
-  details: "<i>Fortune 40 home improvement retailer headquartered in Charlotte, NC.</i>
-  <ul>
-    <li>
-      Developed and maintained Spring Boot microservices and REST APIs for the Enterprise Customer team.
-      Utilized CI/CD tools with Google Cloud Platform, Spinnaker, and Kubernetes.
-      Created data retrieval systems for PostgreSQL and Couchbase Databases.
-    </li>
-    <li>
-      Created metric logging systems and employed them to create performance test and metrics analysis to ensure efficiently working code. 
-      Employed Apache JMeter and Prometheus to create metrics and perform stress tests. 
-      Developed JUnit tests and used them to ensure all code was free of errors.
+      Co-founded Hire Wells, an intelligent sourcing chatbot for Slack and Microsoft Teams; architected end-to-end on Python, AWS, and Slack/Teams/Intercom APIs.
     </li>
   </ul>
   "
-- experience:
-  role: Engineering/Web Intern
-  time: May 2019 - August 2019
-  company: <a href="https://www.cpsproducts.com/" target="_blank">CPS Products, Inc</a>
-  details: "<i>HVAC/R Smart Tools Company headquartered in Miramar, FL.</i>
-  <ul>
-    <li>
-      Developed an advanced, cross-platform IoT consumer app that enables BLE connectivity with smart devices, 
-      employing Apache Cordova, Ionic, AngularJS and TypeScript technologies to create native experiences on 
-      Android and iOS.
-    </li>
-    <li>
-      Developed CDN and cache protocols and more efficiency measures on the CPS USA, Europe, and Australia 
-      WordPress sites to increase the PageSpeed Insight score by more than 50% on each site.
-    </li>
-  </ul>"
-
-- experience:
-  role: Software Development Intern
-  time: June 2018 - August 2018
-  company: <a href="http://www.zell.mx/" target="_blank">Corporativo Zell, Guadalajara, Jalisco, Mexico</a>
-  details: "<i>Fintech and Financial Service Provider headquartered in Guadalajara, Mexico.</i>
-  <ul>
-    <li>
-      Assisted in the planning, development, and implementation of various fintech
-      services and products.
-    </li>
-    <li>
-      Developed an advanced, cross-platform cybersecurity app that enables Zell
-      customers to use two-factor authentication to log into sensitive web portals,
-      employing server-side ASP.NET and client-side JavaScript, HTML, and CSS, while interfacing with SQL database
-      servers.
-    </li>
-  </ul>"
